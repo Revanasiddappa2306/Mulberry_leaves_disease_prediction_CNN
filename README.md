@@ -2,7 +2,7 @@
 
  Steps to deploy and use model : 
 
-1. Download the model from drive link
+1. Download the model from drive link :  https://drive.google.com/drive/folders/1gge1D7ik8QhZ8XspO6o_Q4bXQb89Z5M1?usp=sharing
 2. Make a separate folder in Documents or Desktop
 3. Move downloaded model into the folder
 4. Add Apps.py file to same folder.
