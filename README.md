@@ -10,11 +10,11 @@
 
 then run the below commands
 
-virtualenv venv
-for cmd - 'venv\Scripts\activate'
-for power shell-'.\venv\Scripts\Activate.ps1'
-*** install streamlit if not installed
-streamlit run Apps.py 
+1. virtualenv venv
+2.1 for cmd - 'venv\Scripts\activate'
+2.2 for power shell-'.\venv\Scripts\Activate.ps1'
+3. install streamlit if not installed
+4. streamlit run Apps.py 
 
 To run the colab notebook code
 
